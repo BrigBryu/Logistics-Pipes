@@ -1,0 +1,9 @@
+{
+    "Name": "Logistics Pipes",
+    "Author": "bridgerbrundy",
+    "Version": "1.0.0",
+    "Description": "Directional pipe-based item transport between chests and machines.",
+    "UniqueID": "bridgerbrundy.TransportMod",
+    "EntryDll": "TransportMod.dll",
+    "MinimumApiVersion": "4.1.0"
+}

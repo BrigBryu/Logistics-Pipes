@@ -1,0 +1,8 @@
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/bin/Release/net6.0/TransportMod.deps.json
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/bin/Release/net6.0/TransportMod.dll
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/obj/Release/net6.0/TransportMod.csproj.AssemblyReference.cache
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/obj/Release/net6.0/TransportMod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/obj/Release/net6.0/TransportMod.AssemblyInfoInputs.cache
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/obj/Release/net6.0/TransportMod.AssemblyInfo.cs
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/obj/Release/net6.0/TransportMod.csproj.CoreCompileInputs.cache
+/Users/bridgerbrundy/code/stardew_mods/transport_mod/obj/Release/net6.0/TransportMod.dll
